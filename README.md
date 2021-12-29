@@ -27,7 +27,7 @@
 
 ### Languages and Tools
 
-
+<br />
 ### data managment
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/58484877/147698025-d2bef146-3e8a-406a-986e-c1dfeb5680a2.png" />][github]
@@ -35,14 +35,16 @@
 [<img align="left" alt="Clojure" width="26px" src="https://user-images.githubusercontent.com/58484877/147698039-8ba399f1-3c58-4a9a-98fa-8ca10f1cb33b.jpg" />][github]
 [<img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/58484877/147698127-4346c87d-3309-4236-89fa-dc939a205a79.jpg" />][github]
 
-
+<br />
+<br />
 ### Web Development
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/58484877/147698323-75331654-b2f5-40ec-bd03-6c6dec0ff1c9.png" />][github]
-
+<br />
+<br />
 ### Mobile Development
 
 [<img align="left" alt="Android Studio" width="26px" src="https://user-images.githubusercontent.com/58484877/147698467-bb7e99ca-7b2e-4dc7-a170-3e171c3d7beb.png" />][github]
@@ -50,9 +52,15 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/58484877/147698473-0a5d4f9d-9c96-4a44-89b1-137cfb1a9b72.png" />][github]
 [<img align="left" alt="Xml" width="26px" src="https://user-images.githubusercontent.com/58484877/147698476-22e00fa4-835a-46bb-8167-c19cfa01b0f9.png" />][github]
 
+<br />
+<br />
+
 ### Databases
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
+
+<br />
+<br />
 
 ### Clouds 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -82,7 +90,7 @@
 
 
 [github]: https://github.com/javier30112000/javier30112000
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/javier-garza-973b2916a/
 [strava]: https://www.strava.com/athletes/34403731
 [leetcode]: https://leetcode.com/Javier301120/
