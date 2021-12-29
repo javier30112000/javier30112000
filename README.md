@@ -25,11 +25,9 @@
 
 <br />
 
-### Languages and Tools
-
 <br />
 
-### data managment
+### Languages and Tools
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/58484877/147698025-d2bef146-3e8a-406a-986e-c1dfeb5680a2.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/58484877/147698031-cd58a74f-1669-488f-8466-75744352d4bf.jpg" />][github]
