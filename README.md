@@ -3,23 +3,21 @@
 ### Hi there, I'm Javier Garza 
 
  
-## I'm a Student 🇲🇽
+## I'm a student 🇲🇽
 
-- 🏗️ Fullstack developer at https://www.lacumbrecotidiana.org/
+- 🏗️ Full stack developer at https://www.lacumbrecotidiana.org/
 - 🔭 I’m currently learning advance JS
 - 🌟 I’m looking to became front-end developer 
-- 📙 2021 Goals: been familiarized with one of each fullstack technologies, create 3 fullstack websites and publish one mobile app
-- ⛰️ Hobbies: I love extreme sports (ultra-running, paragliding, rock climbing, mountain biking and everything that includes mouintans)
+- 📙 2021 Goals: been familiarized with one of each full stack technologies, create 3 full stack websites and publish one mobile app
+- ⛰️ Hobbies: I love extreme sports (ultra-running, paragliding, rock climbing, mountain biking and everything that includes mountains)
 
 ### Connect with me:
-
 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="strava | Strava" width="26px" src="https://user-images.githubusercontent.com/58484877/147602629-923c782e-9df9-4a7f-b960-62e80ee32aef.png" />][strava]
 [<img align="left" alt="strava | Strava" width="26px" src="https://user-images.githubusercontent.com/58484877/147605026-61e9dc1b-9b15-414a-8518-fb21a14ddc86.png" />][leetcode]
-
 
 
 
@@ -74,8 +72,7 @@
 
 ---
 
-
-### 📕 Latest Proyects done
+### 📕 Latest Projects done
 
 <!-- 
 - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
@@ -85,10 +82,9 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
 -->
 
-➡️ [more proyects posts...](github)
+➡️ [more projects posts...](github)
 
 ---
-
 
 [github]: https://github.com/javier30112000/javier30112000
 [instagram]: https://instagram.com/
