@@ -8,8 +8,8 @@
 - 🏗️ Full stack developer at https://www.lacumbrecotidiana.org/
 - 🔭 I’m currently learning React and Angular
 - 🌟 I’m looking to became front-end developer 
-- 📙 2021 Goals: been familiarized with one of each full stack technologies, create 3 full stack websites and publish one mobile app
-- ⛰️ Hobbies: I love extreme sports (ultra-running, paragliding, rock climbing, mountain biking and everything that includes mountains)
+- 📙 2022 Goals: been familiarized with one of each full stack technologies, create 3 full stack websites and publish one mobile app
+- ⛰️ Hobbies: I love extreme sports (ultra-running, slackline, rock climbing, mountain biking and everything that includes mountains)
 
 ### Connect with me:
 
