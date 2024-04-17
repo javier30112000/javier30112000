@@ -6,7 +6,7 @@
 ## I'm a student 🇲🇽
 
 - 🏗️ Full stack developer at https://www.lacumbrecotidiana.org/
-- 🔭 I’m currently learning React and Angular
+- 🔭 I’m currently learning React and Flutter
 - 🌟 I’m looking to became front-end developer 
 - 📙 2024 Goals: been familiarized with one of each full stack technologies
 - ⛰️ Hobbies: I love extreme sports (ultra-running, slackline, rock climbing, mountain biking and everything that includes mountains)
